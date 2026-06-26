@@ -17,6 +17,6 @@ public class HelloWorldController {
     @GetMapping
     //responder as requisições GET no endpoint /hello word
    public String helloWorld(){
-        return "Hello World";
+        return "Hello video";
    }
 }
